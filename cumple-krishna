@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Feliz Cumpleaños, Mi Amor</title>
+  <style>
+    body {
+      background: linear-gradient(to right, #ffe6f0, #fff0f5);
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 50px;
+      color: #b30059;
+    }
+
+    h1 {
+      font-size: 3em;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 1.4em;
+      margin: 20px auto;
+      max-width: 600px;
+    }
+
+    .heart {
+      font-size: 2em;
+      color: red;
+    }
+
+    .footer {
+      margin-top: 50px;
+      font-size: 1.1em;
+      color: #800040;
+    }
+  </style>
+</head>
+<body>
+  <h1>🎉 ¡Feliz Cumpleaños, Mi Amor! 🎂</h1>
+
+  <p>Hoy celebro el día más especial: el día en que llegaste al mundo para iluminar mi vida.</p>
+  <p>Gracias por ser mi paz, mi alegría y mi todo. Eres el regalo más hermoso que la vida me dio.</p>
+  <p>Te deseo un año lleno de amor, risas, sueños cumplidos... y muchos abrazos míos 💕</p>
+  <p class="heart">Te amo con todo mi corazón ❤️</p>
+
+  <div class="footer">Con todo mi amor,<br>Tu [tu nombre aquí]</div>
+</body>
+</html>
